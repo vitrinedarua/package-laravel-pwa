@@ -12,6 +12,9 @@
         {
             "name": "Silvio Luis Leite",
             "email": "silviolleite@gmail.com"
+        }, {
+          "name": "João Pedro Alves",
+          "email": "joao@vitrinedarua.com"
         }
     ],
     "autoload": {
