@@ -23,7 +23,6 @@ class ManifestService
                 'src' => $file['path'],
                 'type' => 'image/' . $fileInfo['extension'],
                 'sizes' => (isset($file['sizes']))?$file['sizes']:$size,
-                'purpose' => $file['purpose']
             ];
 
             if (isset($file['purpose'])) {
